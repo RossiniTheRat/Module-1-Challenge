@@ -15,10 +15,6 @@ Restructured HTML to be more semantic.
 
 Made comments in CSS file.
 
-
-
-
-PUT IN READ ME:
-link to application
+https://rossinitherat.github.io/Module-1-Challenge/#social-media-marketing
 
 ![Capture](https://user-images.githubusercontent.com/98125903/236373241-ca93d53f-5704-4b50-be0a-8ff4428dac99.PNG)
